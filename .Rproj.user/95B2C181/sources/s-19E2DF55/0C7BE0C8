@@ -3,7 +3,7 @@
     "path": "C:/Users/lumbrerasj/OneDrive - Seattle Pacific University/RecenteringRegression/RegressionBook/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1634142375",
     "contents": "",
     "dirty": false,
     "created": 1638487636636.0,
@@ -11,14 +11,16 @@
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "4,29",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1638487631,
+    "lastKnownWriteTime": 1638487951,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1638487631,
+    "last_content_update": 1638487951156,
     "read_only": false,
     "read_only_alternatives": []
 }
